@@ -4,6 +4,13 @@
 
 Para começar, faz clone deste repositório e depois verifica se tens todo o setup concluído correndo:
 
+
+```bash
+flutter pub get
+```
+
+E
+
 ```bash
 flutter run -d chrome
 ```
